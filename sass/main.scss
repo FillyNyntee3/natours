@@ -1,0 +1,32 @@
+// abstract sass partials
+@import "./abstracts/functions";
+@import "./abstracts/variables";
+@import "./abstracts/mixins";
+
+// base sass partials
+@import "./base/base";
+@import "./base/animations";
+@import "./base/typography";
+@import "./base/utilities";
+
+// component sass partials
+@import "./components/button";
+@import "./components/composition";
+@import "./components/feature-box";
+@import "./components/card";
+
+// layout sass partials
+@import "./layout/header";
+@import "./layout/grid";
+
+// pages sass partials 
+@import "./pages/home";
+
+
+
+
+
+
+
+
+
